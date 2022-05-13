@@ -18,7 +18,7 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 
 ### O que estou ouvindo no Spotify 🎧
 
-[![Spotify](https://novatorem-5p5j8o0is-amadeu100401.vercel.app/api/spotify)](https://open.spotify.com/user/22wvgclisqpjfutan2tnvid7a)
+[![Spotify ](https://novatorem-5p5j8o0is-amadeu100401.vercel.app/api/spotify/?background_color=242424&border_color=00FF00)](https://open.spotify.com/user/22wvgclisqpjfutan2tnvid7a)
 
 ---
 
