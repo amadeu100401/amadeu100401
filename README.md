@@ -1,6 +1,6 @@
-### Hello there  👋
+### Hello there  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 Olá, me chamo Amadeu Martim! 
-Seja muito bem vindo ao meu perfil GitHub 👋
+Seja muito bem vindo ao meu perfil GitHub 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 # Sou um programador Front-end:
