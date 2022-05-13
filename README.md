@@ -1,6 +1,9 @@
 ### Hello there  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<p align="center">
+  <img src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" width="350">
+</p>
 Olá, me chamo Amadeu Martim! 
-Seja muito bem vindo ao meu perfil GitHub 
+Seja muito bem vindo ao meu perfil GitHub !!!
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 # Sou um programador Front-end:
@@ -52,6 +55,7 @@ Seja muito bem vindo ao meu perfil GitHub
 </div>
   
 ![Snake animation](https://github.com/amadeu100401/amadeu100401/blob/output/github-contribution-grid-snake.svg)
+  
           
           
           
