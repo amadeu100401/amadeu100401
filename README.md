@@ -1,9 +1,9 @@
 
 
 <p align="center">
-  <img src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" width="350">
-</p>
-Olá, me chamo Amadeu Martim! 
+  <h1>Hello There! Eu sou Amadeu Martim! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
+  <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
+</p> 
 Seja muito bem vindo ao meu perfil GitHub !!!
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
