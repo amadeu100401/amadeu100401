@@ -1,10 +1,22 @@
 ### Hello there  👋
 Olá, me chamo Amadeu Martim! 
 Seja muito bem vindo ao meu perfil GitHub 👋
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-# Algumas coisas básicas sobre mim:
+# Sou um programador Front-end:
 - 🔭 Atualmente trabalho desenvolvendo aplicações web utilizando a tecnologia MVC.  
 - 🌱 Estou estudando sobre desenvolvimento web dentro da stack front-end.
+- 📫 Melhor maneira de entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2//)
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### O que estou ouvindo no Spotify 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/22wvgclisqpjfutan2tnvid7a?si=bf93495b14ee42f8)
+
+---
 
 # Tecnologias que estou trabalhando ou estudando atualmente:
 
