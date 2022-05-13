@@ -1,4 +1,5 @@
-### Hello there  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+
+
 <p align="center">
   <img src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" width="350">
 </p>
