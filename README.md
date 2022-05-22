@@ -1,9 +1,10 @@
 <p align="center">
   <h1>Hello There! Eu sou Amadeu Martim! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
-  <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
+<!--   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /> -->
 </p> 
 Seja muito bem vindo ao meu perfil GitHub !!!
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+<!-- <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" /> -->
 
 # Sou um programador Front-end:
 - 🔭 Atualmente trabalho desenvolvendo aplicações web utilizando a tecnologia MVC.  
@@ -12,7 +13,7 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### O que estou ouvindo no Spotify 🎧
 
