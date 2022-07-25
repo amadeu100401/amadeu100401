@@ -7,7 +7,7 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 
 <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
 
-# Sou um programador Front-end:
+# Um pouco sobre mim:
 - 🔭 Atualmente trabalho desenvolvendo aplicações web utilizando .Net e JavaScript.  
 - 📫 Melhor maneira de entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2//)
 
