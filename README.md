@@ -9,7 +9,6 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 
 # Sou um programador Front-end:
 - 🔭 Atualmente trabalho desenvolvendo aplicações web utilizando .Net e JavaScript.  
-- 🌱 Estou estudando sobre desenvolvimento web dentro da stack front-end.
 - 📫 Melhor maneira de entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2//)
 
 ---
