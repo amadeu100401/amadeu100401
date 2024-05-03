@@ -15,12 +15,6 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
-### O que estou ouvindo no Spotify 🎧
-
-[![Spotify ](https://novatorem-5p5j8o0is-amadeu100401.vercel.app/api/spotify/?background_color=242424&border_color=00FF00)](https://open.spotify.com/user/22wvgclisqpjfutan2tnvid7a)
-
----
-
 # Tecnologias que estou trabalhando ou estudando atualmente:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40" />
