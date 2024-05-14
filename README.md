@@ -1,21 +1,17 @@
 <p align="center">
-<!--   <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> -->
   <h1>Hello There! Eu sou Amadeu Martim! </h1>
   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+  Seja muito bem vindo ao meu perfil GitHub !!!
+  <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
 </p> 
-Seja muito bem vindo ao meu perfil GitHub !!!
-
-<img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
 
 # Um pouco sobre mim:
-- 🔭 Atualmente trabalho desenvolvendo aplicações web utilizando .Net e JavaScript.  
+- Atualmente trabalho desenvolvendo aplicações web como desenvolvedor backend
+- Estudo/faço projetos utilizando como princípio o Clean Code e Arquitetura limpa
+- Trabalho utilizando C#, .NET, Entity FrameWork, SQL Server e MySQL
 - 📫 Melhor maneira de entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2//)
-
----
-
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
-
-# Tecnologias que estou trabalhando ou estudando atualmente:
+  
+<!-- # Tecnologias que estou trabalhando ou estudando atualmente:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -30,14 +26,14 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"/> >
 
-### Estatísticas do meu perfil
+<!-- ### Estatísticas do meu perfil
 <div>
 <a href="https://github.com/amadeu100401">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeu100401&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadeu100401&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 ### Contatos:
 
@@ -47,9 +43,6 @@ Seja muito bem vindo ao meu perfil GitHub !!!
 <a href = "mailto:amadeu.martim@souunit.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
-![Snake animation](https://github.com/amadeu100401/amadeu100401/blob/output/github-contribution-grid-snake.svg)
-  
           
           
           
