@@ -2,7 +2,7 @@
   <h1>Hello There! Eu sou Amadeu Martim! </h1>
   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   Seja muito bem vindo ao meu perfil GitHub !!!
-  <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" />
+  <!-- <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" /> -->
 </p> 
 
 # Um pouco sobre mim:
