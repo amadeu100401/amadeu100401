@@ -8,7 +8,7 @@
 # Um pouco sobre mim:
 - Atualmente trabalho desenvolvendo aplicações web como desenvolvedor backend
 - Estudo/faço projetos utilizando como princípio o Clean Code e Arquitetura limpa
-- Trabalho utilizando C#, .NET, Entity FrameWork, SQL Server e MySQL
+- Trabalho utilizando .NET, Java (Springboot), Entity FrameWork, SQL Server, postegreSQL, MongoDB e RabbitMQ 
 - 📫 Melhor maneira de entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/amadeu-martim-silva-de-oliveira-94a30b1a2//)
   
 <!-- # Tecnologias que estou trabalhando ou estudando atualmente:
